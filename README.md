@@ -2,6 +2,8 @@
 
 This repository contains BAW applications used as examples for the BAWVUT tool.
 
+This repository is a companion for repo 'virtual-users-locust-sandbox'.
+
 Applications in .twx and .zip formats were created with BAW v23.x and are compatible with later versions.
 
 ## Installation example for runtime deployment in CP4BA Openshift runtime
